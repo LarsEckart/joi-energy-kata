@@ -1,3 +1,5 @@
+![Test Status](../../workflows/test/badge.svg)
+
 # Welcome to PowerDale
 
 PowerDale is a small town with around 100 residents. Most houses have a smartmeter installed that can save and send information
